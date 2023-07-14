@@ -1,5 +1,5 @@
 # PWA-Challenge
-the deployed app link will be here:
+the deployed app link will be here:  https://jate-pwa-challenge-2de8fbdbf14e.herokuapp.com/
 
 
 ## Table of contents
